@@ -1,0 +1,22 @@
+{
+    "window.nativeTabs": true,
+    "workbench.activityBar.location": "hidden",
+    "breadcrumbs.enabled": false,
+    "workbench.editor.showTabs": "none",
+    "window.customTitleBarVisibility": "never",
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 12,
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.iconTheme": null,
+    "editor.fontFamily": "SF Mono",
+    "workbench.colorTheme": "cursor-less-dark",
+    "workbench.colorCustomizations": {
+        "sideBar.foreground": "#fff",
+        "editorCursor.foreground": "#0d8eff"
+    },
+    "editor.lineNumbers": "relative",
+    "workbench.startupEditor": "none",
+    "window.newWindowProfile": "Default"
+}
