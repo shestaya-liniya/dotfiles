@@ -14,9 +14,14 @@
     "workbench.colorTheme": "cursor-less-dark",
     "workbench.colorCustomizations": {
         "sideBar.foreground": "#fff",
-        "editorCursor.foreground": "#0d8eff"
+        "foreground": "#ffffffe9"
     },
+    "editor.padding.top": 20,
     "editor.lineNumbers": "relative",
     "workbench.startupEditor": "none",
-    "window.newWindowProfile": "Default"
+    "window.newWindowProfile": "Default",
+    "git.autofetch": true,
+    "notebook.cellFocusIndicator": "border",
+    "notebook.markdown.lineHeight": 22,
+    "files.autoSave": "onFocusChange"
 }

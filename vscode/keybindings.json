@@ -19,5 +19,32 @@
         "key": "ctrl+shift+g",
         "command": "-workbench.view.scm",
         "when": "workbench.scm.active"
+    },
+    {
+        "key": "cmd+t",
+        "command": "workbench.action.newWindowTab"
+    },
+    {
+        "key": "ctrl+alt+left",
+        "command": "workbench.action.showPreviousWindowTab"
+    },
+    {
+        "key": "ctrl+alt+right",
+        "command": "workbench.action.showNextWindowTab"
+    },
+    {
+        "key": "alt+enter",
+        "command": "notebook.cell.insertMarkdownCellBelow",
+        "when": "notebookCellListFocused && !inputFocus"
+    },
+    {
+        "key": "a",
+        "command": "explorer.newFile",
+        "when": "filesExplorerFocus"
+    },
+    {
+        "key": "shift+a",
+        "command": "explorer.newFolder",
+        "when": "filesExplorerFocus"
     }
 ]
